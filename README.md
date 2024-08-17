@@ -49,6 +49,10 @@
 ![alt text](Media/image.png)
 ![alt text](Media/image1.png)
 >---
+2.1 Установите пакет jq в Cygwin
+>это необходимо для работы скрипта переводчика
+>
+![alt text](Media/jq.png)
 2. Зайдите в консоль *Cygwin64 Terminal* и введите
 > выдаём права на исполнение скриптам
 ```bash
